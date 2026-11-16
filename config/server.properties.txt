@@ -1,0 +1,3 @@
+server_port=9999
+matches_file=Connections_Data.json
+durata_partita=600000
